@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 I am currently a Computer Programmer Analyst student. 
+
 I have had experience in:
->Web Development
->Database Management 
+>Web Development and Database Management 
 
 Programming languages skills:
-C++, C, C#, Java, JavaScript, Php
+>C++, C, C#, Java, JavaScript, Php
 
 I am enthusiastic in solving problems and learning other programming languages. 
