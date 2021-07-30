@@ -21,6 +21,6 @@ I have had experience in:
 >Web Development and Database Management 
 
 Programming languages skills:
->C++,Java, JavaScript, Php
+>C++,Java, JavaScript, C#
 
 I am enthusiastic in solving problems and learning other programming languages. 
