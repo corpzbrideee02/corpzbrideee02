@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 I am currently a Computer Programmer Analyst student. 
 
 I have had experience in:
->Web Development and Database Management 
+* Web Development
+* Software Development
+* Database Management 
 
 Programming languages skills:
->C++,Java, JavaScript, C#
+* JavaScript
+* Java 
+* C#
+* C++
 
-I am enthusiastic in solving problems and learning other programming languages. 
+I am enthusiastic about solving problems and learning other programming languages. 
