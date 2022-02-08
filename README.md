@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am currently a Computer Programmer Analyst student. 
 
+I am passionate about solving problems and learning other programming languages. 
+
 I have had experience in:
 * Web Development
 * Software Development
@@ -28,4 +30,3 @@ Programming languages skills:
 * C#
 * C++
 
-I am enthusiastic about solving problems and learning other programming languages. 
