@@ -20,7 +20,7 @@ I am currently a Computer Programmer Analyst student.
 I am passionate about solving problems and learning other programming languages. 
 
 I have had experience in:
-* Web Development
+* Full-Stack Web Development
 * Software Development
 * Database Management 
 
