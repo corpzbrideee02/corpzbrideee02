@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a Computer Programmer Analyst student. 
+I am a Computer Programming graduate student. 
 
 I am passionate about solving problems and learning other programming languages. 
 
