@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Computer Programming graduate student. 
+Aspiring Software Developer/Full Stack Developer adept at solving complex problems and building software applications. 
+Passionate about learning other programming languages. 
 
-I am passionate about solving problems and learning other programming languages. 
-
-I have had experience in:
+I have had experience and excellent academic credentials in:
 * Full-Stack Web Development
-* Software Development
+* Desktop Application Development
+* Mobile Application Development
 * Database Management 
 
 Programming languages skills:
