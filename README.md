@@ -33,4 +33,4 @@ Programming languages skills:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=corpzbrideee02&show_icons=true)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=corpzbrideee02)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=corpzbrideee02&theme=blue-green)
