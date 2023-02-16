@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Aspiring Software Developer/Full Stack Developer adept at solving complex problems and building software applications.
+I am an aspiring Software Developer/Full Stack Developer adept at solving complex problems and building software applications.
 
-Passionate about learning other programming languages. 
+Also, I am passionate about learning other programming languages and technologies.
 
 I have had experience and excellent academic credentials in:
 * Full-Stack Web Development
