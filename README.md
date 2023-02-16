@@ -26,10 +26,7 @@ I have had experience and excellent academic credentials in:
 * Database Management 
 
 Programming languages skills:
-* JavaScript
-* Java 
-* C#
-* C++
+[![My Skills](https://skills.thijs.gg/icons?i=js,java,cs,cpp&theme=dark)](https://skills.thijs.gg)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=corpzbrideee02&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
