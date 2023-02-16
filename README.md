@@ -31,3 +31,4 @@ Programming languages skills:
 * C#
 * C++
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=corpzbrideee02&show_icons=true)
