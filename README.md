@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an aspiring Software Developer/Full Stack Developer adept at solving complex problems and building software applications.
-Also, I am passionate about learning other programming languages and technologies.
+I am an aspiring Software Developer/Full Stack Developer who loves immersing in challenging projects that hone my problem-solving and analytical skills. My dedication to crafting streamlined applications is matched only by my desire to grow and evolve in this dynamic industry continuously.
 
 I have experience and excellent academic credentials in:
 * Full-Stack Web Development
